@@ -1,9 +1,9 @@
 <?php
 
-$dbhost = "studentdb-maria.gl.umbc.edu";
-$dbuser = "nsubba1";
-$dbpassword = "nsubba1";
-$dbname = "nsubba1";
+$dbhost = "";
+$dbuser = "";
+$dbpassword = "";
+$dbname = "";
 
 // Create connection
 $conn = mysqli_connect($dbhost, $dbuser, $dbpassword, $dbname);
